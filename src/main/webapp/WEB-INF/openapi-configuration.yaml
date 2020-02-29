@@ -1,0 +1,4 @@
+resourcePackages:
+  - fr.creekorful.testws
+prettyPrint: true
+cacheTTL: 0
